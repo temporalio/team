@@ -1,5 +1,8 @@
 # The Temporal Team
 
+The Temporal team is comprised of level-headed, open minded technologists who are united by a common goal - making it fundamentally easier to write reliable software. If you are interested in working at Temporal we have a [jobs page](https://www.temporal.io/careers) but also feel free to reach out to us directly! 
+
+
 <table width="100%">
   <tbody width="100%" display="table">
   <tr width="100%">
