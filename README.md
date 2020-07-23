@@ -28,7 +28,7 @@
         Shawn Hathaway
       </b>
       <br/>
-      <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/shawn.jpeg" height="auto" width="100%">
+      <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/shawn.png" height="auto" width="100%">
       <br/>
       "I'm such a slacker excuse the Jpeg format"
     </td>
@@ -61,7 +61,7 @@
         Mark Markaryan
       </b>
       <br> 
-      <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/mark.jpg" height="auto" width="100%"> 
+      <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/mark.png" height="auto" width="100%"> 
       <br>
       I :green_heart: making software and riding my bike.
     </td>
