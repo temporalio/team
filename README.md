@@ -118,6 +118,18 @@ The Temporal team is comprised of level-headed, open minded technologists who ar
         <br>
         Writer, developer, and a big fan of the beach.
       </td>
+      <td align="center" valign="top">
+        <b>
+          <a href="https://www.linkedin.com/in/karlaugustine/">
+            Karl Augustine
+          </a>
+        </b>
+        <br>
+        <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/karla.png" height="auto"
+          width="100%">
+        <br>
+        Engaging great talent when not at the beach.
+      </td>
     </tr>
   </tbody>
 </table>
