@@ -131,5 +131,18 @@ The Temporal team is comprised of level-headed, open minded technologists who ar
         Engaging great talent when not at the beach.
       </td>
     </tr>
+    <tr>
+      <td align="center" valign="top">
+        <b>
+          <a href="https://github.com/underrun">
+            Derek Wilson
+          </a>
+        </b>
+        <br>
+        <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/derek.png" height="auto" width="100%">
+        <br>
+        Orchestrating distributed processes in a cloud near you.
+      </td>
+    </tr>
   </tbody>
 </table>
