@@ -143,6 +143,17 @@ The Temporal team is comprised of level-headed, open minded technologists who ar
         <br>
         Orchestrating distributed processes in a cloud near you.
       </td>
+	  <td align="center" valign="top">
+        <b>
+          <a href="https://github.com/vitarb">
+			Vitaly Arbuzov
+          </a>
+        </b>
+        <br>
+        <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/vitaly.png" height="auto" width="100%">
+        <br>
+		Makes everything temporal.
+      </td>
     </tr>
   </tbody>
 </table>
