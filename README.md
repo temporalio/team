@@ -32,17 +32,6 @@ The Temporal team is comprised of level-headed, open minded technologists who ar
     <tr height="auto">
       <td align="center" valign="top">
         <b>
-          <a href="https://github.com/shawnhathaway">
-            Shawn Hathaway
-          </a>
-        </b>
-        <br />
-        <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/shawn.png" height="auto" width="100%">
-        <br />
-        "I'm such a slacker excuse the Jpeg format"
-      </td>
-      <td align="center" valign="top">
-        <b>
           <a href="https://github.com/mastermanu">
             Manu Srivastava
           </a>
