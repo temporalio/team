@@ -144,5 +144,20 @@ The Temporal team is comprised of level-headed, open minded technologists who ar
 		Makes everything temporal.
       </td>
     </tr>
+    <tr>
+      <td align="center" valign="top">
+        <b>
+          <a href="https://github.com/sergeybykov">
+            Sergey Bykov
+          </a>
+        </b>
+        <br>
+        <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/sergey.jpg" height="auto" width="100%">
+        <br>
+             Brings Cloud down to Earth
+      </td>
+      <td align="center" valign="top">
+      </td>
+    </tr>
   </tbody>
 </table>
