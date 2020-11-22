@@ -43,8 +43,6 @@ The Temporal team is comprised of level-headed, open minded technologists who ar
         <br>
         overpriced scotch, and reading Temporal workflow code
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <b>
           <a href="https://github.com/rylandg">
@@ -56,17 +54,6 @@ The Temporal team is comprised of level-headed, open minded technologists who ar
           width="100%">
         <br>
         Does product stuff
-      </td>
-      <td align="center" valign="top">
-        <b>
-          <a href="https://github.com/markmark206">
-            Mark Markaryan
-          </a>
-        </b>
-        <br>
-        <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/mark.png" height="auto" width="100%">
-        <br>
-        I :green_heart: making software and riding my bike.
       </td>
     </tr>
     <tr>
