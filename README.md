@@ -144,10 +144,6 @@ The Temporal team is comprised of level-headed, open minded technologists who ar
              Brings Cloud down to Earth
       </td>
       <td align="center" valign="top">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
         <b>
           <a href="https://github.com/Sushisource">
             Spencer Judge
@@ -157,8 +153,6 @@ The Temporal team is comprised of level-headed, open minded technologists who ar
         <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/spencer.jpg" height="auto" width="100%">
         <br>
              The languages guy
-      </td>
-      <td align="center" valign="top">
       </td>
     </tr>
   </tbody>
