@@ -155,5 +155,19 @@ The Temporal team is comprised of level-headed, open minded technologists who ar
              The languages guy
       </td>
     </tr>
+	  <td align="center" valign="top">
+        <b>
+          <a href="https://www.linkedin.com/in/vera-kobylchak-6992a981/">
+            Vera Kobylchak
+          </a>
+        </b>
+        <br>
+        <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/vera.jpg" height="auto"
+          width="100%">
+        <br>
+        Software Engineer by day. Gym enthustiast by night.
+      </td>
+    </tr>
+    <tr>
   </tbody>
 </table>
