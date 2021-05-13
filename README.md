@@ -162,7 +162,7 @@ The Temporal team is comprised of level-headed, open minded technologists who ar
           </a>
         </b>
         <br>
-        <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/vera.jpg" height="auto"
+        <img src="https://raw.githubusercontent.com/temporalio/team/master/assets/Vera.jpg" height="auto"
           width="100%">
         <br>
         Software Engineer by day. Gym enthustiast by night.
